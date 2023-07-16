@@ -16,3 +16,9 @@ Aug 2006, O'Reilly Media, Inc.
 
 [Book info page provided by the author](http://regex.info/book.html)  
 [Errata for the third edition of the book](http://regex.info/errata3.html)  
+
+## Book Questions
+
+The book includes questions that are on the form of small exercises to test the knowledge on the content. Below follows links to my personal notes and answers for these questions.
+
+[Question Page 8: The caret and dollar metacharacters](questions/page-008/question-page-008.md)  
