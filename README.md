@@ -14,8 +14,14 @@ Aug 2006, O'Reilly Media, Inc.
 
 ## Resources
 
+## Book Specific Resources
+
 [Book info page provided by the author](http://regex.info/book.html)  
 [Errata for the third edition of the book](http://regex.info/errata3.html)  
+
+## General Regular Expression Resources
+
+[Regex 101, a regular expression playground](https://regex101.com/)  
 
 ## Book Questions
 
