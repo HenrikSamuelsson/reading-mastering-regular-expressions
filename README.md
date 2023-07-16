@@ -11,3 +11,8 @@ The content in this repository is based on reading an e-book version bought on [
 Mastering Regular Expressions: Understand Your Data and Be More Productive, Edition 3  
 Jeffrey E.F. Friedl  
 Aug 2006, O'Reilly Media, Inc.  
+
+## Resources
+
+[Book info page provided by the author](http://regex.info/book.html)  
+[Errata for the third edition of the book](http://regex.info/errata3.html)  
